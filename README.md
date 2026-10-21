@@ -1,1 +1,1 @@
-# hofa-graficos
+# Galería de Gráficos
